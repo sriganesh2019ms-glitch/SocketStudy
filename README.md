@@ -57,20 +57,21 @@ Socket programming finds applications in various domains, including web developm
 
 ## Server:
 
-<img width="997" height="649" alt="image" src="https://github.com/user-attachments/assets/1d31a720-42a1-46f9-8052-dac284c2f3f8" />
+<img width="956" height="312" alt="image" src="https://github.com/user-attachments/assets/893b6c3d-832a-43cd-8846-19049a7acf3d" />
+
 
 
 ## Client:
 
-<img width="891" height="631" alt="image" src="https://github.com/user-attachments/assets/fba696b3-b20e-4b31-a657-38dea72ed433" />
+<img width="864" height="557" alt="image" src="https://github.com/user-attachments/assets/eccbef36-5bc2-4606-8b61-4c47424bdce9" />
+
 
 
 ## Output:
 
-<img width="774" height="182" alt="image" src="https://github.com/user-attachments/assets/338dba7d-ace6-47ba-a1d6-d8de0188f0b7" />
+<img width="490" height="123" alt="Screenshot 2026-05-18 192537" src="https://github.com/user-attachments/assets/20035623-a1a2-46af-aacc-6e64e43eb14c" />
 
-
-<img width="764" height="176" alt="image" src="https://github.com/user-attachments/assets/6bcfd5cb-281e-46db-a18f-bdf07ebe3ec9" />
+<img width="727" height="81" alt="Screenshot 2026-05-18 192518" src="https://github.com/user-attachments/assets/d70fa9d3-cb18-4cda-b51e-ba1edb41403a" />
 
 
 
